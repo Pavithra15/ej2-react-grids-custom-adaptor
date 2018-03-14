@@ -1,6 +1,6 @@
-# ej2-react-grids-filtering
+# ej2-react-grids-custom-adaptor
 
-React Filtering sample with menu filtering type.
+React Grid sample with custom-adaptor.
 
 ## Installing
 
